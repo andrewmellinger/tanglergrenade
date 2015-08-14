@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tanglergrenademod",
+  "name": "TanglerGrenadeMod",
+  "description": "Mod with tangler grenades.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Andrew Mellinger"],
+  "credits": "For Virginia.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
